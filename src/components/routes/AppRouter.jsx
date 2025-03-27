@@ -1,7 +1,7 @@
 import { Navigate, Route, Routes } from "react-router";
 import LoginForm from "../auth/Login";
 import AuthLayout from "../layout/AuthLayout";
-import AuthForm from "../auth/AuthForm";
+import AuthForm from "../auth/Authform";
 import { Main } from "../Main";
 import { protect } from "../utils/protect"; 
 
